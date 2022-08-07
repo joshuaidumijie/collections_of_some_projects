@@ -1,2 +1,2 @@
-# Collections_of_Python_Projects
-## The following tasks where completed using Python.
+# Collections_of_Projects
+## The resp contains a projects completed during my HAMOYE internship and a SQL guided project on DATACAMP.
